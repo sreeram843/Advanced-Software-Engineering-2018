@@ -1,0 +1,4 @@
+#Sun Mar 11 13:55:20 CDT 2018
+base.0=C\:\\Users\\shara\\Documents\\ionic\\ASE_LAB_ASS_4\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+file.0=C\:\\Users\\shara\\Documents\\ionic\\ASE_LAB_ASS_4\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0\\classes.dex
